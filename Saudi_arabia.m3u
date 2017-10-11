@@ -11,8 +11,6 @@ https://live.alarabiya.net/alarabiya/myStream_720p/playlist.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/index.m3u8
 #EXTINF:-1,Nilat TV
 http://82.212.74.3:8000/live/7505.m3u8
-#EXTINF:-1,Rotana kalejia
-https://svs.itworkscdn.net/rotanakhalijialive/rkhalijia_360p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMTcgMTA6MDM6NTYgQU0maGFzaF92YWx1ZT1aTjlaenZ3dllFS0I2WTdUTzNFSlNRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE0OA==
 #EXTINF:-1,DMM TV
 http://82.212.74.2:8000/live/7314.m3u8
 #EXTINF:-1,Al Danah TV 
