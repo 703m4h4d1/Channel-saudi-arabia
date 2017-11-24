@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Saudi 1
+#EXTINF:-1,Saudi1
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/index.m3u8
 #EXTINF:-1,Al Ekhbariya
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live.m3u8
@@ -37,11 +37,11 @@ http://live.wesalhaq.tv/w/whaq_360p/playlist.m3u8
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
 #EXTINF:-1,Resalat Al Islam Network
 http://82.212.74.3:8000/live/7502.m3u8
-#EXTINF:-1,Semsem TV
+#EXTINF:-1,SemsemTV
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1,Salam TV
+#EXTINF:-1,SalamTV
 http://82.212.74.100:8000/live/8124.m3u8
 #EXTINF:-1,Al Qassim TV
 http://82.212.74.2:8000/live/7341.m3u8
-#EXTINF:-1,Ayaat TV
+#EXTINF:-1,AyaatTV
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
